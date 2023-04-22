@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1682127696 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao01.h"
+	"questao02.h"
+	"questao03.h"
+	"questao04.h"
+	"questao05.h"
+	"questao06.h"
+	"questao07.h"
+	"questao08.h"
+	"questao09.h"
+	"questao10.h"
+	"questao11.h"
+	"questao12.h"
+	"questao19.h"
+	"questao20.h"
+	"questao21.h"
+	"questao22.h"
+	"questao23.h"
+	"questao24.h"
+
+1681469112 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao07.h
+
+1681472590 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao07.c
+	<stdio.h>
+	<stdlib.h>
+	"questao07.h"
+
+1681471465 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao08.h
+
+1681471638 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao08.c
+	<stdio.h>
+	<stdlib.h>
+	"questao08.h"
+
+1682107397 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao09.c
+	<stdio.h>
+	<stdlib.h>
+	"questao09.h"
+
+1681472869 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao09.h
+
+1681474431 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao10.h
+
+1682103416 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao10.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao10.h"
+
+1682036321 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao11.h
+
+1682035173 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questão01.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+
+1682034953 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao01.h
+
+1682076157 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao11.c
+	<stdio.h>
+	<stdlib.h>
+	"questao11.h"
+
+1682038911 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao12.h
+
+1682047188 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao12.c
+	<stdio.h>
+	<stdlib.h>
+	"questao12.h"
+
+1682077906 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao19.h
+
+1682077906 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao19.c
+	<stdio.h>
+	<stdlib.h>
+	"questao19.h"
+
+1682090203 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao20.c
+	<stdio.h>
+	<stdlib.h>
+	"questao20.h"
+
+1682079806 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao20.h
+
+1682090203 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao21.h
+
+1682091684 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao21.c
+	<stdio.h>
+	<stdlib.h>
+	"questao21.h"
+
+1682102022 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao22.h
+
+1682101984 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao22.c
+	<stdio.h>
+	<stdlib.h>
+	"questao22.h"
+
+1682107461 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao23.c
+	<stdio.h>
+	<stdlib.h>
+	"questao23.h"
+
+1682107397 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao23.h
+
+1682114887 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao24.h
+
+1682126120 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao24.c
+	<stdio.h>
+	<stdlib.h>
+	"questao24.h"
+
+1682123414 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao02.h
+
+1682123414 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao01.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+
+1682126120 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao02.c
+	<stdio.h>
+	<stdlib.h>
+	"questao02.h"
+
+1682124640 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao03.h
+
+1682127705 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao03.c
+	<stdio.h>
+	<stdlib.h>
+	"questao03.h"
+
+1682127696 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao04.h
+
+1682127696 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao05.h
+
+1682127696 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao06.h
+
+1682127696 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao04.c
+	<stdio.h>
+	<stdlib.h>
+	"questao04.h"
+
+1682127696 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao06.c
+	<stdio.h>
+	<stdlib.h>
+	"questao06.h"
+
