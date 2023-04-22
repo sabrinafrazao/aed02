@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1682127696 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\main.c
+1682132397 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -15,6 +15,12 @@
 	"questao10.h"
 	"questao11.h"
 	"questao12.h"
+	"questao13.h"
+	"questao14.h"
+	"questao15.h"
+	"questao16.h"
+	"questao17.h"
+	"questao18.h"
 	"questao19.h"
 	"questao20.h"
 	"questao21.h"
@@ -148,4 +154,45 @@
 	<stdio.h>
 	<stdlib.h>
 	"questao06.h"
+
+1682128622 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao13.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao13.h"
+
+1682128622 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao13.h
+
+1682129013 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao14.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao14.h"
+
+1682128948 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao14.h
+
+1682129560 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao15.h
+
+1682130289 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao16.h
+
+1682129658 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao15.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao15.h"
+
+1682132231 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao17.h
+
+1682132298 c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao18.h
+
+1682131846 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao17.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao17.h"
+
+1682132231 source:c:\users\sabri\onedrive\area de trabalho\aed02\lista01\questao18.c
+	<stdio.h>
+	<stdlib.h>
+	"questao18.h"
 

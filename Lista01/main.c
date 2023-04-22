@@ -13,6 +13,12 @@
 #include "questao10.h"
 #include "questao11.h"
 #include "questao12.h"
+#include "questao13.h"
+#include "questao14.h"
+#include "questao15.h"
+#include "questao16.h"
+#include "questao17.h"
+#include "questao18.h"
 #include "questao19.h"
 #include "questao20.h"
 #include "questao21.h"
@@ -23,7 +29,7 @@
 int main()
 {
 
-    //questao1();
+    questao1();
     //questao02();
     //questao03();
     //questao04();
@@ -35,6 +41,12 @@ int main()
     //questao10();
     //questao11();
     //questao12();
+    //questao13();
+    //questao14();
+    //questao15();
+    //questao16();
+    //questao17();
+    //questao18();
     //questao19();
     //questao20();
     //questao21();
