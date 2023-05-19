@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1684485891 source:c:\area de trabalho\aed02\lista\lista02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bubblesort.h"
+	"insertionsort.h"
+	"selectionSort.h"
+
+1684480812 c:\area de trabalho\aed02\lista\lista02\bubblesort.h
+
+1684485952 source:c:\area de trabalho\aed02\lista\lista02\bubblesort.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1684486011 source:c:\area de trabalho\aed02\lista\lista02\insertionsort.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1684483834 c:\area de trabalho\aed02\lista\lista02\insertionsort.h
+
+1684485409 c:\area de trabalho\aed02\lista\lista02\selectionsort.h
+
+1684485952 source:c:\area de trabalho\aed02\lista\lista02\selectionsort.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
