@@ -42,6 +42,14 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="mergeSort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mergeSort.h" />
+		<Unit filename="quickSort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="quickSort.h" />
 		<Unit filename="selectionSort.c">
 			<Option compilerVar="CC" />
 		</Unit>

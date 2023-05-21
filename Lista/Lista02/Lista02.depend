@@ -1,29 +1,45 @@
 # depslib dependency file v1.0
-1684485891 source:c:\area de trabalho\aed02\lista\lista02\main.c
+1684684321 source:c:\area de trabalho\aed02\lista\lista02\main.c
 	<stdio.h>
 	<stdlib.h>
 	"bubblesort.h"
 	"insertionsort.h"
 	"selectionSort.h"
+	"mergeSort.h"
+	"quickSort.h"
 
-1684480812 c:\area de trabalho\aed02\lista\lista02\bubblesort.h
+1684675146 c:\area de trabalho\aed02\lista\lista02\bubblesort.h
 
-1684485952 source:c:\area de trabalho\aed02\lista\lista02\bubblesort.c
+1684675146 source:c:\area de trabalho\aed02\lista\lista02\bubblesort.c
 	<stdio.h>
 	<stdlib.h>
 	<locale.h>
 
-1684486011 source:c:\area de trabalho\aed02\lista\lista02\insertionsort.c
+1684675146 source:c:\area de trabalho\aed02\lista\lista02\insertionsort.c
 	<stdio.h>
 	<stdlib.h>
 	<locale.h>
 
-1684483834 c:\area de trabalho\aed02\lista\lista02\insertionsort.h
+1684675146 c:\area de trabalho\aed02\lista\lista02\insertionsort.h
 
-1684485409 c:\area de trabalho\aed02\lista\lista02\selectionsort.h
+1684675146 c:\area de trabalho\aed02\lista\lista02\selectionsort.h
 
-1684485952 source:c:\area de trabalho\aed02\lista\lista02\selectionsort.c
+1684675146 source:c:\area de trabalho\aed02\lista\lista02\selectionsort.c
 	<stdio.h>
 	<stdlib.h>
 	<locale.h>
+
+1684677308 c:\area de trabalho\aed02\lista\lista02\mergesort.h
+
+1684677737 source:c:\area de trabalho\aed02\lista\lista02\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1684679515 source:c:\area de trabalho\aed02\lista\lista02\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1684684321 c:\area de trabalho\aed02\lista\lista02\quicksort.h
 
